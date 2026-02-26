@@ -10,7 +10,8 @@ account_sid = os.environ.get("ACCOUNT_SID")
 auth_token = os.environ.get("AUTH_TOKEN")
 
 
-api_key = os.environ.get("OWM_API_KEY")
+# api_key = os.environ.get("OWM_API_KEY")
+api_key = "7879606910a9c3080a6767c5690fff1e"
 
 parameters = {
     "lat": 52.084770,
